@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bolu-Fmi
-- 👀 I’m interested in Graphics Design 
+- 👀 I’m interested in Mobile App Design and Fullstack Development
 - 🌱 I’m currently learning Front end coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
